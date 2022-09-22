@@ -41,4 +41,4 @@ The generator also supports standard view model features, such as automatically 
 bool message;
 ```
 
-The following topic lists all supported PRISM features: [Third-party Libraries Support -> MVVM Light Toolkit](https://docs.devexpress.com/WPF/402989/mvvm-framework/viewmodels/compile-time-generated-viewmodels#third-party-libraries-support).
+The following topic lists all supported PRISM features: [Third-party Libraries Support -> MVVM Light Toolkit](https://docs.devexpress.com/WPF/402989/mvvm-framework/viewmodels/compile-time-generated-viewmodels#mvvm-light-toolkit).
